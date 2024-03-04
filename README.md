@@ -20,6 +20,7 @@
 | PHP 8.2.13   | `php@8.2` |
 | PHP 8.2.14   | `php@8.2` |
 | PHP 8.2.15   | `php@8.2` |
+| PHP 8.2.16   | `php@8.2` |
 
 ## Usage
 - On macOS, install Xcode Command Line Utilities:
